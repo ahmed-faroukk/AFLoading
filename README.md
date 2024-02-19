@@ -177,7 +177,7 @@
 
 <!-- Easing Function -->
 
-<h4>License</h4>
+<h4>Easing</h4>
 
 <p>Specifies the easing function for the animation, affecting its acceleration and deceleration:</p>
 
@@ -191,3 +191,10 @@
 </pre>
 
 <p>Utilize these parameters judiciously to achieve a polished and tailored visual experience for your loading animation.</p>
+
+<!-- License -->
+
+<h2>License</h2>
+
+<p>This library is licensed under the <a href="LICENSE">MIT License</a>.</p>
+
