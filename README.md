@@ -51,7 +51,7 @@
 <!-- Customization -->
 <!-- Customizing Options -->
 
-<h3>Customizing Options</h3>
+<h3>Customization</h3>
 
 <p>AFLoading offers a range of options for fine-tuning the layout and appearance of the loading animation:</p>
 
@@ -177,7 +177,7 @@
 
 <!-- Easing Function -->
 
-<h4>Easing Function</h4>
+<h4>License</h4>
 
 <p>Specifies the easing function for the animation, affecting its acceleration and deceleration:</p>
 
