@@ -63,7 +63,9 @@
 
 <pre>
   <code>
-    modifier: Modifier = Modifier,
+    AFLoading(
+        modifier: Modifier = Modifier,
+    )
   </code>
 </pre>
 
@@ -75,7 +77,9 @@
 
 <pre>
   <code>
-    circleSize: Dp = 20.dp,
+     AFLoading(
+        circleSize: Dp = 20.dp,
+    )
   </code>
 </pre>
 
@@ -87,7 +91,10 @@
 
 <pre>
   <code>
-    spaceBetween: Dp = 10.dp,
+      AFLoading(
+          spaceBetween: Dp = 10.dp,
+    )
+    
   </code>
 </pre>
 
@@ -99,7 +106,10 @@
 
 <pre>
   <code>
-    travelDistance: Dp = 20.dp,
+      AFLoading(
+          travelDistance: Dp = 20.dp,
+    )
+    
   </code>
 </pre>
 
@@ -111,7 +121,10 @@
 
 <pre>
   <code>
-    animationDuration: Int = 1200,
+    AFLoading(
+          animationDuration: Int = 1200,
+    )
+    
   </code>
 </pre>
 
@@ -123,7 +136,10 @@
 
 <pre>
   <code>
-    delayBetweenCircles: Int = 100,
+       AFLoading(
+          delayBetweenCircles: Int = 100,
+    )
+    
   </code>
 </pre>
 
@@ -135,9 +151,12 @@
 
 <pre>
   <code>
-    color1: Color = Color.Yellow,
-    color2: Color = Color.Cyan,
-    color3: Color = Color.White,
+       AFLoading(
+          color1: Color = Color.Yellow,
+          color2: Color = Color.Cyan,
+          color3: Color = Color.White,
+    )
+    
   </code>
 </pre>
 
@@ -149,7 +168,10 @@
 
 <pre>
   <code>
-    repeatMode: RepeatMode = RepeatMode.Restart,
+      AFLoading(
+           repeatMode: RepeatMode = RepeatMode.Restart,
+    )
+    
   </code>
 </pre>
 
@@ -161,7 +183,10 @@
 
 <pre>
   <code>
-    easing: Easing = LinearOutSlowInEasing,
+        AFLoading(
+            easing: Easing = LinearOutSlowInEasing,
+    )
+   
   </code>
 </pre>
 
