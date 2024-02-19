@@ -13,7 +13,6 @@
   <li><a href="#installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#customization">Customization</a></li>
-  <li><a href="#license">License</a></li>
 </ol>
 
 <!-- Introduction -->
@@ -194,7 +193,4 @@
 
 <!-- License -->
 
-<h2>License</h2>
-
-<p>This library is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
